@@ -1,0 +1,21 @@
+Island of Copper: 12,000 Years of Cyprus
+Created by James Paraskeva: game design, writing, artwork and narration.
+
+Licensed under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+https://creativecommons.org/licenses/by-nc/4.0/
+
+You are free to play, copy and share this game, use it in classrooms, museums and
+community groups, and adapt it (for example, translate it), as long as you credit
+James Paraskeva and do not use it commercially.
+
+Suggested credit: "Island of Copper" by James Paraskeva, CC BY-NC 4.0.
+
+The quotations in the 'Republic & Division' era are the words of the people quoted and
+remain with them and their original publishers; each is credited in the game.
+Artwork was made with AI image tools under James Paraskeva's direction.
+
+Commercial use, corrections or feedback: paraskeva@gmail.com
+
+HOW TO PLAY: unzip this folder, then open index.html in any web browser. No internet needed.
+TO INSTALL AS AN APP: host this folder on any website (for example itch.io or GitHub Pages),
+open it on a phone or iPad, and choose "Add to Home Screen". It then works offline.
